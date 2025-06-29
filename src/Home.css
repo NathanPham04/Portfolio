@@ -1,0 +1,15 @@
+.homepage-image {
+    width: 15em;
+    height: auto;
+    background-color: white;
+    border-radius: 50%;
+    padding: 1em;
+    object-fit: cover;  
+}
+
+.gradient-border-wrapper {
+  background: linear-gradient(to left, rgb(86, 82, 197), rgb(21, 188, 210));
+  padding: 0.5em;               
+  border-radius: 50%;
+  display: inline-block;
+}
